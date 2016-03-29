@@ -40,3 +40,7 @@ Add create and update views for the following:
 ## Nightmare Mode
 
 * Add the up and down vote systems to the post and comment pages
+
+## External Links
+* [ModelForm Documentation](https://docs.djangoproject.com/en/1.9/topics/forms/modelforms/)
+* [Intro to Class Based Views](https://docs.djangoproject.com/en/1.9/topics/class-based-views/intro/) 
